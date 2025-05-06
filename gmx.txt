@@ -1,0 +1,6 @@
+!
+! Title: gmx
+! Description: a list of domains to block ads on gmx
+! Version: 0.0.1
+!
+||ui-portal.de^
